@@ -6,7 +6,7 @@
 	<groupId>br.com.blz</groupId>
 	<artifactId>test-java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>test-java</name>
 	<description>Java Test for Beleza Na Web</description>
